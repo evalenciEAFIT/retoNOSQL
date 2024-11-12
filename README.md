@@ -168,7 +168,7 @@ Descripción: Muestra todos los campos y valores del documento con ID "ABC123".
 | **Estructura de datos** | Eficiente y adecuada para operaciones de NoSQL. | Adecuada, con ligeras ineficiencias. | Funcional pero con problemas de eficiencia. | Ineficiente, impactando las operaciones. | No se utilizó una estructura adecuada. |
 | **Manejo de errores y CLI** | Manejo adecuado de errores con mensajes claros. | La mayoría de los errores se manejan bien. | Algunos errores de entrada no se manejan adecuadamente. | Muchos errores no se manejan y la CLI es confusa. | No maneja errores y la CLI es difícil de usar. |
 | **Claridad del código y estilo** | Código claro y bien organizado. | Claro pero con inconsistencias menores. | Claro en su mayoría, con algunas secciones confusas. | Confuso y con nombres inconsistentes. | No es legible ni está bien estructurado. |
-| **Documentación y README** | Documentación excelente en el código y un README completo. | Documentación y README claros pero podrían ser más detallados. | Documentación mínima en el código y README. | Documentación insuficiente. | No se incluyó documentación en el código ni README adecuado. |
+| **Documentación y README** | Documentación excelente en el código y un documento. | Documentación clara pero podrían ser más detallados. | Documentación mínima en el código y documento. | Documentación insuficiente. | No se incluyó documentación en el código. |
 
 ## Entrega
 
