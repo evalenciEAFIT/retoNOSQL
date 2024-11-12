@@ -172,7 +172,7 @@ Descripción: Muestra todos los campos y valores del documento con ID "ABC123".
 
 ## Entrega
 
-- **Formato de entrega**: Envía el código fuente, el archivo `README.md`, y una breve explicación de la solución alcanzada en el idioma del código. 
+- **Formato de entrega**: Envía el código fuente, el archivo word o pdf, con una breve explicación de la solución propuesta. 
 - **Fecha límite**: 25 de noviembre de 2024.
 
 ---
