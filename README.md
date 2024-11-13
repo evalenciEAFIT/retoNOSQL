@@ -1,6 +1,6 @@
 # Reto Final: Motor de Datos NoSQL
 
-**Fecha límite de entrega:** 25 de noviembre de 2024
+**Fecha límite de entrega:** 22 de noviembre de 2024
 
 ## Descripción del Reto
 
@@ -173,6 +173,6 @@ Descripción: Muestra todos los campos y valores del documento con ID "ABC123".
 ## Entrega
 
 - **Formato de entrega**: Envía el código fuente, el archivo word o pdf, con una breve explicación de la solución propuesta. 
-- **Fecha límite**: 25 de noviembre de 2024.
+- **Fecha límite**: 22 de noviembre de 2024.
 
 ---
